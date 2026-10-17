@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "34874f69968e54bd33e783c2",
+  "owner": "unuuhxwwx",
+  "repo": "page-c85eb040d0e2665a4ad88aaa",
+  "title": "容器(iHax)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c85eb040d0e2665a4ad88aaa",
+      "a": "容器(iHax)",
+      "b": "",
+      "entity": "容器(iHax)",
+      "brand": "容器(iHax)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7832f697172a06367042e6d2a1ac42f1f7a416fa0c1c08366ce57b925c6358d7",
+      "content": {
+        "keyword1": "容器(iHax)",
+        "keyword2": "",
+        "primary_entity": "容器(iHax)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "容器(iHax) 用短句把档位、步骤和问答摊开。左侧窄栏阅读，右侧留白。价格按月与按年并列。客户端无可靠下载时只写中性说明。",
+          "AI_DESCRIPTION": "容器(iHax) 用短句把档位、步骤和问答摊开。左侧窄栏阅读，右侧留白。价格按月与按年并列。客户端无可靠下载时只写中性说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{background:#f4efe8;color:#2a1810;font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;line-height:1.55}\na{color:#1f6b55;text-decoration:none}\na:hover{text-decoration:underline}\nmain{max-width:1120px;margin:0 auto;padding:28px 20px 80px}\n.hero{min-height:88vh;display:flex;align-items:flex-start;justify-content:flex-start}\n.narrow{width:min(42ch,100%);padding-top:8vh}\n.blank{flex:1}\n.anchors{display:flex;flex-wrap:wrap;gap:10px 16px;margin:18px 0 28px;font-size:13px;letter-spacing:.08em;text-transform:uppercase}\n.anchors a{color:#1f6b55;border-bottom:1px solid #7dcea0;padding-bottom:2px}\nh1{font-size:clamp(28px,5vw,44px);font-weight:700;margin:0 0 12px;color:#3c2415}\n.lead{font-size:16px;color:#4a3226;margin:0 0 10px}\nh2{font-size:22px;color:#3c2415;margin:56px 0 16px}\nh3{font-size:18px;color:#3c2415;margin:0 0 8px}\np,li{font-size:15px}\n.card{background:#fffdf8;border-radius:28px;box-shadow:0 14px 40px rgba(60,36,21,.12);padding:22px 22px 20px;margin:0 0 16px}\n.price{font-size:20px;color:#1f6b55;margin:0 0 6px}\n.sub{color:#6a5346;font-size:13px;margin:0 0 12px}\nol.steps{padding-left:1.2em}\n.mark{display:inline-block;background:#7dcea0;color:#1a2e26;font-size:11px;letter-spacing:.06em;padding:3px 8px;border-radius:999px;margin-bottom:8px}\ndetails{background:#fffdf8;border-radius:28px;box-shadow:0 10px 28px rgba(60,36,21,.1);padding:14px 18px;margin:0 0 12px}\nsummary{cursor:pointer;font-weight:600;color:#3c2415}\ndetails p{margin:10px 0 4px;color:#4a3226}\nfooter{margin-top:48px;font-size:12px;color:#6a5346}\n@media (max-width:700px){\n.hero{min-height:auto}\n.narrow{width:100%;padding-top:24px}\n}\n</style><main>\n<section class=\"hero\" id=\"top\">\n<div class=\"narrow\">\n<nav class=\"anchors\">\n<a href=\"#how\">步骤</a>\n<a href=\"#plans\">档位</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问答</a>\n</nav>\n<h1>容器(iHax)</h1>\n<p class=\"lead\">左栏读完。右栏空着。</p>\n<p>短句。少修饰。不堆口号。</p>\n<p>公开资料未给出官方身份与评测。此处只写结构：怎么用、怎么选档、常见问法。</p>\n</div>\n<div class=\"blank\"></div>\n</section>\n\n<section id=\"how\">\n<h2>使用说明</h2>\n<div class=\"card\">\n<h3>四步</h3>\n<ol class=\"steps\">\n<li>选定一档。记下月价与年价差。</li>\n<li>按自己的设备数量核对上限。</li>\n<li>客户端区若无地址，先不要下载不明安装包。</li>\n<li>账单与额度以实际结算页为准。本页不承诺性能数字。</li>\n</ol>\n</div>\n</section>\n\n<section id=\"plans\">\n<h2>订阅档位</h2>\n<article class=\"card\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"sub\">按年付仅需 ¥150/年</p>\n<ul>\n<li>月度额度：按基础档计入。</li>\n<li>同时在线：最多 3 台设备。</li>\n<li>支持通道：常规工单。</li>\n</ul>\n</article>\n<article class=\"card\">\n<p class=\"mark\">推荐标记</p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"sub\">按年付仅需 ¥350/年</p>\n<ul>\n<li>月度额度：高于基础档。</li>\n<li>同时在线：最多 5 台设备。</li>\n<li>工单：优先排队说明，不作时效承诺。</li>\n</ul>\n</article>\n<article class=\"card\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"sub\">按年付仅需 ¥850/年</p>\n<ul>\n<li>月度额度：团队用量档。</li>\n<li>同时在线：最多 20 台设备。</li>\n<li>对接：专人联系入口，细节以合同为准。</li>\n</ul>\n</article>\n</section>\n\n<section id=\"clients\">\n<h2>客户端</h2>\n<div class=\"card\">\n<h3>下载说明</h3>\n<p>目前没有可核验的官方安装地址。</p>\n<p>平台列表未提供。请勿使用来路不明的文件。</p>\n<p>链接留空：<a href=\"#\">#</a></p>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>容器(iHax) 是什么机构？</summary>\n<p>本页没有可引用的官方资质或主体说明。只作品牌展示页。</p>\n</details>\n<details>\n<summary>价格会变吗？</summary>\n<p>上列数字来自参考档位。下单前再对一次结算页。</p>\n</details>\n<details>\n<summary>没有客户端怎么办？</summary>\n<p>先停。等有确认地址再装。不要猜镜像。</p>\n</details>\n<details>\n<summary>能承诺速度或节点吗？</summary>\n<p>不能。事实清单为空。不写评测、不写线路、不写日志政策。</p>\n</details>\n</section>\n<footer>容器(iHax) · 静态说明页</footer>\n</main>",
+          "hash": "3210989d3e2c86246836e78789722a3c2d51a9e0a991701558ff8f64cd5bc883",
+          "seo": {
+            "title": "容器(iHax) — 窄栏说明与订阅档位",
+            "keywords": "容器(iHax), iHax, 订阅, 使用说明, 常见问题",
+            "description": "容器(iHax) 用短句把档位、步骤和问答摊开。左侧窄栏阅读，右侧留白。价格按月与按年并列。客户端无可靠下载时只写中性说明。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "7118",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tlmbuku.cn",
+    "host": "p-aae363e67c.tlmbuku.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "5c017638ce1db4c92263dc369ece24bcf8bfc15e3871e5852f13931ae674580a",
+    "sitemap.xml": "0d04c90f2c1897412256421c7e979415395a30076d3ca4b1213332601d3141cd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3aae5458d47a00c102741d781c83f35b5fcdf9aba25ce61d2ddee8ebcf55df97",
+    "robots.txt": "738407fa473b716694ffbb6f8162fba6fcf9d29ac16970319525ae182267579c",
+    "77b3fbac8e8558df8210eebe35f58f09.txt": "fa1647e1381035d8b01babe5c3517db7d43b9780a579ef743ec624772f451992"
+  },
+  "revision": "4ab9496be24b0534ad7f37f415b0275961184cec5b9adb9b588bd140592b322c"
+}
